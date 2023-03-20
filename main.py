@@ -12,6 +12,6 @@ while True:
         break
     else:
         print("Devi inserire un numero intero, riprova.")
-    
+   
 print("Il primo numero inserito è:", numero1)
 print("Il secondo numero inserito è:", numero2)
